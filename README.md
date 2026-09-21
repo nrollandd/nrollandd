@@ -14,7 +14,7 @@
 - **minishell** — Shell fonctionnel en C (pipes, redirections)
 - **mini_RT** — Ray tracer 3D en C
 
-## Me contacter
+## Liens
 
 📄 [Télécharger mon CV](https://cdn2.cvdesignr.com/u/cv/pdf/69f0a17d3b77a_2b9e135192ba0b4337e432058223a27a9a0c72e3.pdf)  
 💼 [LinkedIn](https://www.linkedin.com/in/nathan-rolland-b5b1b3405/)
