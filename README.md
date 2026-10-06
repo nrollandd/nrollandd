@@ -16,5 +16,5 @@
 
 ## Liens
 
-📄 [Télécharger mon CV]((https://github.com/nrollandd/nrollandd/blob/main/CV_2026-09-21_Nathan_ROLLAND.pdf))  
+📄 [Télécharger mon CV](https://github.com/nrollandd/nrollandd/raw/main/CV_2026-09-21_Nathan_ROLLAND.pdf)  
 💼 [LinkedIn](https://www.linkedin.com/in/nathan-rolland-b5b1b3405/)
